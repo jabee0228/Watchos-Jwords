@@ -1,6 +1,6 @@
 # Watchos-Jwords
 讓你使用apple watch 閱讀單字
-## 
+## install
 1.Downlod all files to your mac.
 2.Open xcode(App store).
 3.Open this project.
